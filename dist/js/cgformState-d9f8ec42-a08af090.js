@@ -1,0 +1,1 @@
+import{d as t}from"./jeecg-online-vendor-f57c6456.js";const n=t({id:"cgform-state",state:()=>({changedTables:[]}),getters:{},actions:{checkIsChanged(e){return this.changedTables.includes(e)},addChangedTable(e){this.changedTables.push(e)},removeChangedTable(e){const s=this.changedTables.findIndex(a=>a===e);s!==-1&&this.changedTables.splice(s,1)}}});export{n as h};

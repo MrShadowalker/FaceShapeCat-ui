@@ -1,0 +1,1 @@
+import{m as e,ap as t}from"./jeecg-online-vendor-f57c6456.js";const{uploadUrl:a=""}=e();function p(o,u){return t.uploadFile({url:a,onUploadProgress:u},o)}function r(o,u){return t.uploadFile({url:`${a}/sys/common/upload`,onUploadProgress:u},o,{isReturnResponse:!0})}export{r as a,p as u};

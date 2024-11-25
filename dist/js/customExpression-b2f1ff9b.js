@@ -1,0 +1,1 @@
+function t(e){return e||(e="朝阳区"),`北京市 ${e}`}function o(e){return e||(e="张三"),`您好，我叫： ${e}`}const r=Object.freeze(Object.defineProperty({__proto__:null,demoFieldDefVal_getAddress:t,sayHi:o},Symbol.toStringTag,{value:"Module"}));export{r as F};

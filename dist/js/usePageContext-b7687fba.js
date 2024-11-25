@@ -1,0 +1,1 @@
+import{c as o,u as r}from"./index-37448b2d.js";import"./tinymce-vendor-3c2b3d6e.js";import"./antd-vue-vendor-05bfa84d.js";import"./jeecg-online-vendor-f57c6456.js";import"./vxe-table-vendor-26792376.js";const t=Symbol();function c(e){return o(e,t,{native:!0})}function p(){return r(t)}export{c as createPageContext,p as usePageContext};

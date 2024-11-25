@@ -1,0 +1,1 @@
+import{d as e,a6 as o,a7 as a}from"./tinymce-vendor-3c2b3d6e.js";import{_ as r}from"./jeecg-online-vendor-f57c6456.js";import"./antd-vue-vendor-05bfa84d.js";import"./vxe-table-vendor-26792376.js";const t=e({name:"FrameBlank"});function n(s,c,m,p,i,_){return o(),a("div")}const u=r(t,[["render",n]]);export{u as default};

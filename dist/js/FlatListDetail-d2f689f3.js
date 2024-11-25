@@ -1,0 +1,1 @@
+import{d as t,a6 as e,a7 as o}from"./tinymce-vendor-3c2b3d6e.js";import{_ as r}from"./jeecg-online-vendor-f57c6456.js";import"./antd-vue-vendor-05bfa84d.js";import"./vxe-table-vendor-26792376.js";const a=t({});function n(s,c,p,i,u,m){return e(),o("div",null," 平级详情页 ")}const E=r(a,[["render",n]]);export{E as default};
